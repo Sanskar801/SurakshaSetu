@@ -1,4 +1,3 @@
-import React from 'react'
 import { NavigationMenu, NavigationMenuContent, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, NavigationMenuTrigger } from '../ui/navigation-menu'
 import { NavLink } from 'react-router'
 import ContactForm from '../ContactForm'
